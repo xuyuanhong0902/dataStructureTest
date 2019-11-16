@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\bin\Debug\netcoreapp2.1\dataStructureTest2.deps.json
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\bin\Debug\netcoreapp2.1\dataStructureTest2.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\bin\Debug\netcoreapp2.1\dataStructureTest2.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\bin\Debug\netcoreapp2.1\dataStructureTest2.dll
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\bin\Debug\netcoreapp2.1\dataStructureTest2.pdb
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.dll
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.pdb
+C:\Users\Administrator\source\repos\WebApplication3\dataStructureTest2\obj\Debug\netcoreapp2.1\dataStructureTest2.csprojAssemblyReference.cache
